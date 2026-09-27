@@ -1,16 +1,15 @@
-# Replace with your unique project name
+# ColorVisionProjeccttt!!!!!
 
 ## Description
 
 **version 1.0**
 
-Replace with a description of *what* your program does (not *how* it works)
+My program tells you which colorblindness would make it hard to distinguish between a chosen set of colors. 
 
 
 ## Developer
 
-Replace with your name
-
+Fatima Quezada Perez
 ## Example
 
 To run the program, give the following commands:
@@ -23,5 +22,17 @@ g++ --std=c++11 *.cpp -o cvp
 Here is an example of the program running:
 
 ```
-Replace this with a copy-pasted example of the input/output of your program running.
+Choose two colors from the following list to check which colorblindness is unable to distinguish between them!
+
+Red
+Yellow
+Green
+Blue
+Purple
+Pink
+
+Red Green
+Individuals with protanopia OR deuteranopia colorblindness would struggle to distinguish between these colors :(
+
+Would you like to retry? (Type Y or N): 
 ```
